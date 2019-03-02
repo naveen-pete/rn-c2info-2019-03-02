@@ -1,0 +1,37 @@
+
+Understanding the React Native bridge concept
+- https://hackernoon.com/understanding-react-native-bridge-concept-e9526066ddb8
+
+JavaScriptCore
+- https://developer.apple.com/documentation/javascriptcore
+- https://nshipster.com/javascriptcore/
+
+Material Design Icons
+- https://material.io/tools/icons/?style=baseline
+
+React Navigation
+- https://reactnavigation.org/docs/en/getting-started.html
+
+Paper
+- Material design for React Native
+- https://github.com/callstack/react-native-paper
+- https://callstack.github.io/react-native-paper/getting-started.html
+
+JavaScript Promises, async/await
+- https://javascript.info/async
+- https://javascript.info/async-await
+
+Understanding React Native Component Lifecycle Api
+- https://blog.usejournal.com/understanding-react-native-component-lifecycle-api-d78e06870c6d
+
+React Native: Top 10 Best Practices
+- https://www.innofied.com/top-10-react-native-best-practices-to-follow/
+
+Following S.O.L.I.D Principles in React Native Apps
+- https://www.innofied.com/solid-object-oriented-principles-in-react-native-architecture/
+
+Stack Overflow links
+- Hot reload vs Live reload https://stackoverflow.com/questions/41428954/what-is-the-difference-between-hot-reloading-and-live-reloading-in-react-native
+
+- Unable to connect with remote debugger
+https://stackoverflow.com/questions/40898934/unable-to-connect-with-remote-debugger
