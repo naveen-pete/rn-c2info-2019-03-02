@@ -39,3 +39,7 @@ Stack Overflow links
 
 - Unable to connect with remote debugger
 https://stackoverflow.com/questions/40898934/unable-to-connect-with-remote-debugger
+
+Babel
+- https://babeljs.io/
+- https://babeljs.io/repl
