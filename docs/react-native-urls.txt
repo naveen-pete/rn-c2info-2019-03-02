@@ -3,6 +3,9 @@ Useful URLs
 MDN JavaScript Documentation
 - https://developer.mozilla.org/bm/docs/Web/JavaScript
 
+Thinking in React
+- https://reactjs.org/docs/thinking-in-react.html
+
 Understanding the React Native bridge concept
 - https://hackernoon.com/understanding-react-native-bridge-concept-e9526066ddb8
 
